@@ -1,7 +1,6 @@
 # Welcome
 ![Screenshot 1](https://i.imgur.com/Cp8WqNT.png)
 
-
 Hello folks!, This is the official repository of Another Hub 0.0.1.
 
 ## Loadstring
