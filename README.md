@@ -1,7 +1,13 @@
 # Welcome
 ![Screenshot 1](https://i.imgur.com/Cp8WqNT.png)
 
-Hello folks!, This is the official repository of Another Hub 0.0.1.
+Hello folks!, This is the official repository of Another Hub 0.0.2!
+
+
+## ChangeLogs
+(more games will be added soon)
+0.0.2 -- Fixed Bugs in Fisch Script
+0.0.1 -- Release.
 
 ## Loadstring
 The script is:
