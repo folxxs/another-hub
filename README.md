@@ -13,7 +13,7 @@ Hello folks!, This is the official repository of Another Hub 0.0.3!
 ## Loadstring
 The script is:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/another-hub/refs/heads/main/main/loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/another-hub/refs/heads/main/script.lua", true))()
 ```
 ## Compatibility
 * Swift
