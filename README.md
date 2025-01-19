@@ -18,6 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/another-hub/ref
 ## Compatibility
 * Swift
 * Wave
+* Nihon
 * AWP
 * Synapse Z
 
