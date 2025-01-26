@@ -18,7 +18,7 @@ https://anotherhub.agency/
 ## Loadstring
 The script is:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/another-hub/refs/heads/main/script.lua", true))()
+loadstring(game:HttpGet("https://anotherhub.agency/script/loader.lua"))() 
 ```
 ## Compatibility
 * Swift
