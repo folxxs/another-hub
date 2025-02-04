@@ -11,6 +11,7 @@ https://anotherhub.agency/
 
 ## ChangeLogs
 (more games will be added)
+* 0.0.5 -- Added Murder Mystery 2, Fixed Bug in Key System
 * 0.0.4 -- New Website, Fixed Bugs in Tower Of Hell Anticheat Bypass
 * 0.0.3 -- Added Tower Of Hell.
 * 0.0.2 -- Fixed Bugs in Fisch Script
@@ -22,10 +23,11 @@ The script is:
 loadstring(game:HttpGet("https://anotherhub.agency/script/loader.lua"))() 
 ```
 ## Compatibility
-* Swift
+* Swift (Discontinued for rewrite)
 * Wave
-* Nihon
+* Nihon (Discontinued for rewrite)
 * AWP
 * Synapse Z
+* Delta 
 
 
