@@ -11,7 +11,7 @@ https://anotherhub.agency/
 ## Supported Games
 * Murder Mystery 2
 * Tower Of Hell
-* Fisch (Currently Patch, wait for an update)
+* Fisch (Currently Patched, wait for an update)
 * Break In
 
 ## ChangeLogs
