@@ -1,7 +1,7 @@
 # Welcome
 ![Screenshot 1](https://i.imgur.com/Cp8WqNT.png)
 
-Hello folks!, This is the official repository of Another Hub 0.0.4!
+Hello folks!, This is the official repository of Another Hub 0.0.6!
 
 
 New website!:
@@ -9,13 +9,12 @@ New website!:
 https://anotherhub.agency/
 
 ## Supported Games
-* Murder Mystery 2
-* Tower Of Hell
-* Fisch (Currently Patched, wait for an update)
-* Break In
+See At https://anotherhub.agency/
+
 
 ## ChangeLogs
 (more games will be added)
+* 0.0.6 -- Fixed tons of bugs, unpatched fisch (removed webhook)
 * 0.0.5 -- Added Murder Mystery 2, Fixed Bug in Key System
 * 0.0.4 -- New Website, Fixed Bugs in Tower Of Hell Anticheat Bypass
 * 0.0.3 -- Added Tower Of Hell.
@@ -33,6 +32,7 @@ loadstring(game:HttpGet("https://anotherhub.agency/script/loader.lua"))()
 * Nihon (Discontinued for rewrite)
 * AWP
 * Synapse Z
-* Delta 
+* Delta
+* CodeX
 
 
